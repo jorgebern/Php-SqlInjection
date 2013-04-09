@@ -1,0 +1,117 @@
+#cabecera {
+      background-image: url("../imagenes/punto2.png");
+      background-repeat: repeat;
+      width:100%;
+      margin:10px;
+      padding:5px;
+}
+
+#indice {
+      width:30%;
+      margin:10px;
+      padding:5px;
+      float: left;
+      border: 2px;
+      border-color:green;
+      border-style:solid;
+}
+
+#cuerpo {
+      width:60%;
+      margin:10px;
+      padding:5px;
+      float:left;
+      border-left:2px;
+      border-left-color:red;
+      border-left-style:solid;
+      
+}
+
+body {
+      font-family:Arial;
+      font-size: 10pt;
+
+}
+
+div#indice a:link {
+      color:green;
+}
+
+div#botones {
+      background-color:red; 
+}
+
+
+div#indice a:visited {
+      color:green;
+}
+div#indice a:hover  {
+      color:blue;
+      display:block;
+      background-color:yellow;
+      cursor:url(../imagenes/cursor.CUR),auto;
+}
+
+
+p{
+      text-indent:30px;
+      text-align:justify;
+}
+
+
+ul#menu li {
+  list-style-image: url('../imagenes/punto.png');
+}
+
+table#tabla_album {
+      border:3px;
+      border-color:red;
+      border-style:solid;
+}
+
+img.fotos_album {
+      border:3px;
+      border-color:red;
+      border-style:solid;
+      width:50px;
+      height:50px;
+      margin:auto;
+}
+table#datos {
+      border:3px green solid;
+      margin:auto;
+}
+
+table#datos tr td {
+      border:3px green solid;
+      }
+      
+table#datos thead {
+      background-color:#008000;
+      font-size: 15pt;
+      text-align:center;
+      font-weight:bold;
+}
+
+
+table#datos tbody {
+      background-color:#00FF00;
+}
+
+
+div#cabecera h1 {
+      color:red;
+}
+
+
+input#text:hover {
+      border:2px black solid;
+}
+img#pequenas {
+      width:20px;
+      height:20px;
+}
+
+
+
+
