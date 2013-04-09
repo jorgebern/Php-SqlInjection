@@ -19,9 +19,9 @@
       </script>
   </head>
   <body>
-  <!---- Contenerdor------>
+  <!-- Contenerdor-->
   <div id="contenedor">
-            <!-------Cabecera--------->
+            <!---Cabecera-->
                   <div id="cabecera">
                   <table>
                   <tr>
@@ -39,10 +39,10 @@
                         
                         
                   </div>
-            <!-------Indice------>
+            <!---Indice-->
                   <div id="indice">
                   
-                    <!-------Lista de Links a las paginas----->
+                    <!---Lista de Links a las paginas-->
                         <ul id="menu">
                         <li><a id="menu" href="index.php"> Presentaci&oacute;n</a> </li>
                         <li><a id="menu" href="album.php">Album</a></li>
@@ -51,7 +51,7 @@
                      </ul>
                             
                   </div>      
-            <!-------Cuerpo------>
+            <!---Cuerpo-->
                   <div id="cuerpo">
                         <div id="botones" align="center">
                               <form >

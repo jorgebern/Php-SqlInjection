@@ -19,9 +19,9 @@
       </script>
   </head>
   <body>
-  <!---- Contenerdor------>
+  <!-- Contenerdor-->
   <div id="contenedor">
-            <!-------Cabecera--------->
+            <!---Cabecera-->
       <div id="cabecera">
             <table>
                   <tr>
@@ -34,7 +34,7 @@
                   </tr>
             </table>    
       </div>
-            <!-------Indice------>
+            <!---Indice -->
       <div id="indice">
       
         <!-------Lista de Links a las paginas----->
